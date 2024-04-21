@@ -43,3 +43,9 @@ body {
 .h1 {
     font-size: 40px;
 }
+.btn {
+    padding: 7px 17px;
+    font-size: 20px;
+    background-color: rgb(220, 220, 125);
+    font-weight: bold;
+}
