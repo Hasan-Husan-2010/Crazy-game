@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    font-family: cursive;
+}
+span, a, label {
+    display: inline-block;
+}
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100dvh;
+}
+.box {
+    width: 700px;
+    margin: auto;
+}
+.form {
+    text-align: center;
+}
+.red {
+    color: red;
+}
+.green {
+    color: limegreen;
+}
+.blueviolet {
+    color: blueviolet;
+}
+.inp {
+    width: 70%;
+    outline: none;
+    padding: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.div {
+    padding: 20px;
+    background-color: rgb(220, 220, 125);
+}
+.h1 {
+    font-size: 40px;
+}
